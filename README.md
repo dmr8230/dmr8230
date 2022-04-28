@@ -9,5 +9,5 @@
  - Email: danirowe1225@gmail.com
  - Linked In: www.linkedin.com/in/danielle-rowe1225
 - 😄 Pronouns: she/her 
-- Languages: Java, Javascript, Python, C#, HTML, and CSS
+- Languages: Java, Javascript, Python, C#, HTML, Markdown, HTML, Bootstrap, and CSS
 - ⚡ Fun fact: I play Ice Hockey
